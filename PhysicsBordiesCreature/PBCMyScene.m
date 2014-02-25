@@ -74,7 +74,7 @@
 		
 		self.mySquares = [NSMutableArray array];
 		self.hue = 0.0;
-		self.jointMode = 1;
+		self.jointMode = arc4random() % 3;
 
 		SKLabelNode *myLabel = [SKLabelNode labelNodeWithFontNamed:@"Helvetica"];
 		myLabel.horizontalAlignmentMode = SKLabelHorizontalAlignmentModeLeft;
