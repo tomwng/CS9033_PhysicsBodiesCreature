@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFA01BB0-9754-471C-9BFF-5ECA250C7779</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PhysicsBodiesCreature</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BCEB9101-6D17-459D-A32B-D48523D8CD65</key>
+		<string>https://github.com/tomwng/CS9033_PhysicsBodiesCreature.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PhysicsBodiesCreature.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BCEB9101-6D17-459D-A32B-D48523D8CD65</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tomwng/CS9033_PhysicsBodiesCreature.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BCEB9101-6D17-459D-A32B-D48523D8CD65</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BCEB9101-6D17-459D-A32B-D48523D8CD65</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CS9033_PhysicsBodiesCreature</string>
+		</dict>
+	</array>
+</dict>
+</plist>
